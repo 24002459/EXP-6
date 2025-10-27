@@ -1,5 +1,5 @@
 # EXP-6
-EXP No. :6 			CHARACTERISTICS M OF LVDT
+## EXP No. :6 			CHARACTERISTICS M OF LVDT
 
 ### Date:27/10/2025
 ### Name: Ashok Kumar Preetham Kumar
